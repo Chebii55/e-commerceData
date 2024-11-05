@@ -10,7 +10,6 @@ This project aims to analyze customer engagement data to uncover patterns and bu
 5. [Modeling](#modeling)
 6. [Key Findings](#key-findings)
 7. [Recommendations](#recommendations)
-8. [Project Setup](#project-setup)
 
 ---
 
